@@ -1,0 +1,27 @@
+/* ============================================
+   Application-Specific Styles
+   ============================================ */
+
+/* Welcome card styling */
+.welcome-card ul li {
+  margin-bottom: var(--spacing-sm);
+}
+
+/* Error card styling */
+.card--error {
+  border-color: var(--color-error);
+  background-color: rgba(232, 72, 86, 0.05);
+}
+
+/* Responsive container adjustments */
+@media (max-width: 640px) {
+  .container {
+    padding: 0 var(--spacing-md);
+  }
+}
+  }
+  &::after {
+    right: 0;
+    border-right-color: var(--border);
+  }
+}
