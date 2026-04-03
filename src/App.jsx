@@ -183,7 +183,7 @@ function App() {
                     margin: 'var(--spacing-sm) 0 0 0',
                     fontSize: 'var(--font-size-sm)',
                     color: 'var(--color-text-secondary)',
-                  }}>
+                  }}>frontend-developer-hiring-test
                     Remaining
                   </p>
                 </div>
